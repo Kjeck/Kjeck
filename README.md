@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @Kjeck
+- 👋 Hi, I'm Kjeck
 - 👀 I am interested: programming, photography, travel
 - 🌱 I'm currently learning Python/SQL/NoSQL
 - 📫 How to contact me ![image](https://user-images.githubusercontent.com/60232582/160255894-90d0311d-be00-4cd7-8d15-905d21d0dcb3.png)
